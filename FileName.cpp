@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-#define max 3
+#define max 4//最大联系人数
 struct person {//联系人结构体
 	string name;//姓名
 	int sex;//性别
